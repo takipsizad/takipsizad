@@ -1,4 +1,6 @@
 ### Hi there 
+i am just programmer
+i love doing random things
 
 
 ![takipsizad's github stats](https://github-readme-stats.vercel.app/api?username=takipsizad&show_icons=true&theme=radical) 
