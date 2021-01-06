@@ -2,5 +2,11 @@
 
 
 ![takipsizad's github stats](https://github-readme-stats.vercel.app/api?username=takipsizad&show_icons=true&theme=radical) 
-\n
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takipsizad)
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=takipsizad)
