@@ -11,4 +11,5 @@ i love doing random things
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=takipsizad)
+[![takipsizads's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=takipsizad)
+<a href="https://skyline.github.com/taKipsizad/2021" title="2021 GitHub Skyline">
