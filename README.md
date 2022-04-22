@@ -1,6 +1,7 @@
 ### Hi there 
 i am just programmer
-i love doing random things
+i love doing random things 
+
 ![](https://komarev.com/ghpvc/?username=takipsizad&color=green&style=for-the-badge)
 
 ![takipsizad's github stats](https://github-readme-stats.vercel.app/api?username=takipsizad&show_icons=true&theme=radical) 
